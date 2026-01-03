@@ -1,7 +1,7 @@
 
 from fastapi import FastAPI, Request, Query
 import asyncio
-from asho import get_variant_and_token
+from src.shopify import get_variant_and_token
 
 app = FastAPI()
 
