@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Schweis-Projects/.github/blob/main/images/SchweisLogo.jpeg" width="60%">
 
-# 🛒 Auto-Shopify
+# Auto-Shopify
 
 **Shopify Payment Gateway Checker API**
 
@@ -18,7 +18,7 @@
 
 ### Features
 
-⚡ Auto Product Discovery • 💳 Payment Processing • 🌍 Multi-Currency • 🚀 Async
+Auto Product Discovery • Payment Processing • Multi-Currency • Async
 
 ---
 
